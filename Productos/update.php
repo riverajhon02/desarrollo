@@ -65,7 +65,7 @@ header('location: index.php');
 				</ul> 
 			</li>
 			<li>
-				<a class="dropdown-item" href="/php/Productos/index.php">Productos</a>
+				<a class="dropdown-item" href="/desarrollo/Productos/index.php">Productos</a>
 			</li>
 			<li>
 				<a class="dropdown-item" href="#">Fabricantes</a>

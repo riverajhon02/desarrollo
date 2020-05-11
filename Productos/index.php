@@ -42,7 +42,7 @@ $rows = $db->query($sql);
    		<ul class="list-unstyled components">
    			<p>Proyecto Formativo</p>
    			<li class="active">
-				<a class="dropdown-item" href="/php/privado/index.html">Inicio</a>
+				<a class="dropdown-item" href="/desarrollo/index.html">Inicio</a>
    			</li>
    			
    		    <li>
@@ -57,7 +57,7 @@ $rows = $db->query($sql);
 				</ul> 
 			</li>
 			<li>
-				<a class="dropdown-item" href="/php/privado/Productos/index.php">Productos</a>
+				<a class="dropdown-item" href="/desarrollo/Productos/index.php">Productos</a>
 			</li>
 			<li>
 				<a class="dropdown-item" href="#">Fabricantes</a>
